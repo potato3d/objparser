@@ -1,8 +1,5 @@
 # objparser
-Simple C++ library to read 3D Wavefront OBJ/MTL files
-
-# OBJ/MTL file format
-https://en.wikipedia.org/wiki/Wavefront_.obj_file#:~:text=The%20OBJ%20file%20format%20is,of%20vertices%2C%20and%20texture%20vertices.
+Simple C++ library to read [3D Wavefront OBJ/MTL files](https://en.wikipedia.org/wiki/Wavefront_.obj_file#:~:text=The%20OBJ%20file%20format%20is,of%20vertices%2C%20and%20texture%20vertices.)
 
 # Description
 
