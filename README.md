@@ -7,6 +7,7 @@ https://en.wikipedia.org/wiki/Wavefront_.obj_file#:~:text=The%20OBJ%20file%20for
 # Description
 
 Header files: include/objparser.h and include/mtlparser.h
+
 Source files: src/objparser.cpp and src/mtlparser.cpp
 
 Visual Studio project files located in mak.vc8 directory.
